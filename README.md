@@ -1,0 +1,2 @@
+# WordSynonims
+SoftUniTask WordSynonims
