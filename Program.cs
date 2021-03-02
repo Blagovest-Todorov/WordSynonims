@@ -19,7 +19,7 @@ namespace words
                 {
                     dictionary[word].Add(synonim);
                 }
-                else // (!dictionary.ContainsKey("word"))
+                else // (!dictionary.ContainsKey(word))
                 {
                     dictionary.Add(word, new List<string>() { synonim});
                 }
